@@ -1,0 +1,22 @@
+Recipe: Tea
+Ingredients:
+- Water
+- Tea leaves
+- Sugar
+- Milk
+Steps:
+1. Boil water
+2. Add tea leaves and sugar
+3. Add milk
+4. Serve hot
+
+Recipe: Maggi
+Ingredients:
+- Maggi noodles
+- Water
+- Tastemaker
+Steps:
+1. Boil water
+2. Add noodles and tastemaker
+3. Cook for 2 minutes
+4. Serve
