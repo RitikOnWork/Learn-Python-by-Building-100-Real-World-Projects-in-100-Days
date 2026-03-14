@@ -122,7 +122,7 @@ pip install -r requirements.txt
 AI/ML Enthusiast | Python Developer | Problem Solver
 
 * GitHub: [RitikOnWork](https://github.com/RitikOnWork)
-* LinkedIn: *(Add your LinkedIn link here)*
+* LinkedIn: *(https://www.linkedin.com/in/ritikonwork/)*
 
 ---
 
